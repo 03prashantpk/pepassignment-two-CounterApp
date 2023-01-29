@@ -7,13 +7,14 @@ body{
     justify-content: center;
     margin: 10% 0%;
     text-align: center;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.905), rgba(255, 255, 255, 0.905)), url("https://source.unsplash.com/1600x900/?cloud,rain,fog");
+    background-image: linear-gradient(rgba(255, 255, 255, 0.910), rgba(255, 255, 255, 0.910)), url("https://source.unsplash.com/1600x900/?cloud,rain,fog");
 
 }
 
 h4{
     padding: 1%;
     font-size: 22px;
+    color: rgb(3, 3, 109);
 }
 
 .Card{
