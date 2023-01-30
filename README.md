@@ -1,4 +1,4 @@
-# PEP - Placement Training Assignment
+# PEP - Placement Training Assignment - 2
 
 ## Available Scripts
 In the project directory, you can run:
