@@ -14,7 +14,7 @@ In the project directory, you can run:
 
 ### Image
 
-![](https://github.com/03prashantpk/pepassignmentone/blob/master/public/reco.gif)
+![](https://github.com/03prashantpk/pepassignment-two-CounterApp/blob/master/public/PEPAssignment2(2).gif)
 
 
 <center>
